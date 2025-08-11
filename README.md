@@ -17,32 +17,21 @@
 - 👯 Open to **Spring Boot + MongoDB + Docker** collabs  
 - 💬 Ask me about **Java**, **Spring Boot**, **DevOps**, & **Microservices**  
 - 📫 [**rajatroshan1234@gmail.com**](mailto:rajatroshan1234@gmail.com)  
-- 📄 [**My Resume**](https://rajatroshan.github.io/Rajatkumarsahu.github.io/)  
+- 📄 [**My PortFolio**](https://rajatroshan.github.io/Rajatkumarsahu.github.io/)  
 - ⚡ Fun fact: My code runs… after I negotiate with it 😄  
 
 <br/>
 <div align="center">
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-kumar-sahu-19ab62226)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rajatroshan2002)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/rajatroshan_2002/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajatroshan2002/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/rajatroshan)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajat-kumar-sahu-19ab62226" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rajatroshan2002" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/rajatroshan_2002/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/rajatroshan2002/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/rajatroshan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
 
 <div align="center">
 
@@ -58,6 +47,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -105,15 +95,38 @@
 </div>
 
 ---
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/rajatroshan/rajatroshan/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
+## 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajatroshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<br/>
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=rajatroshan&theme=dark&hide_border=false" />
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatroshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🔝 Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=rajatroshan&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+</div>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatroshan&show_icons=true&locale=en&layout=compact" alt="rajatroshan" /></p>
+<p align="center">
+  <strong>
+    <span style="font-size: 20px; font-weight: bold; text-shadow: 0 0 5px #00ff99, 0 0 15px #00cc88, 0 0 25px #009966;">
+      👨‍💻 Writes code, breaks it... then fixes it like nothing happened.
+    </span>
+  </strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatroshan&show_icons=true&locale=en" alt="rajatroshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatroshan&" alt="rajatroshan" /></p>
