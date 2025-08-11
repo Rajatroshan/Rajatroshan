@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Rajatroshan/Rajatroshan/blob/main/mybanner.jpg" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Rajat Kumar Sahu</h1>
 <h3 align="center">A passionate Backend, DevOps & Cloud Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatroshan&label=Profile%20views&color=0e75b6&style=flat" alt="rajatroshan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatroshan" alt="rajatroshan" /></a> </p>
 
 - 🔭 I’m currently working on **Major Project**
 - 🌱 I’m currently learning **SpringBoot Advanced with different types of DevOps Tools, like Jenkins.**
